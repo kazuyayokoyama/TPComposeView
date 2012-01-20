@@ -1,5 +1,5 @@
 #TPComposeView
-TPComposeView is a simple modal view which allows the user to quickly compose text similar to the integrated [TWTweetComposeViewController](http://developer.apple.com/library/ios/#documentation/Twitter/Reference/TWTweetSheetViewControllerClassRef/Reference/Reference.html) in iOS 5.
+TPComposeView is a simple modal view which allows the user to quickly compose text similar to the integrated [TWTweetComposeViewController](http://developer.apple.com/library/ios/#documentation/Twitter/Reference/TWTweetSheetViewControllerClassRef/Reference/Reference.html) in iOS 5 (landscape support will be added soon).
 
 ![image](http://f.cl.ly/items/3B3p1N0J3W230L3V2w2Y/iOS%20Simulator%20Screen%20shot%20Jan%2015,%202012%2000.50.05%20.png)
 
